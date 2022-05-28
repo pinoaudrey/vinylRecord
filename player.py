@@ -146,95 +146,95 @@ while True:
                 sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:7zeCZY6rQRufc8IHGKyXGX')
                 sleep(2)  
             #21    
-            elif (id=='RFID-CARDVALUE-2'):
+            elif (id==428793137580):
                 
                 # playing an album
-                sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:0JGOiO34nwfUdDrD612dOp')
+                sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:6uSnHSIBGKUiW1uKQLYZ7w')
                 sleep(2)
             #22    
-            elif (id=='RFID-CARDVALUE-2'):
+            elif (id==356886055251):
                 
                 # playing an album
-                sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:0JGOiO34nwfUdDrD612dOp')
+                sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:7kjLKy9JLbwM9F7eDQEnd2')
                 sleep(2)
             #23    
-            elif (id=='RFID-CARDVALUE-2'):
+            elif (id==977978591567):
                 
                 # playing an album
-                sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:0JGOiO34nwfUdDrD612dOp')
+                sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:6jTUmLtY779ZNYsyugOq2q')
                 sleep(2)
             #24    
-            elif (id=='RFID-CARDVALUE-2'):
+            elif (id==566685141354):
                 
                 # playing an album
-                sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:0JGOiO34nwfUdDrD612dOp')
+                sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:64Ky1tqKPfwxhJs6msphWd')
                 sleep(2)                 
             #25    
-            elif (id=='RFID-CARDVALUE-2'):
+            elif (id==908655200600):
                 
                 # playing an album
-                sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:0JGOiO34nwfUdDrD612dOp')
+                sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:64yIGFoYJVg66fRXIxIYJr')
                 sleep(2)
             #26    
-            elif (id=='RFID-CARDVALUE-2'):
+            elif (id==76082574990):
                 
                 # playing an album
-                sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:0JGOiO34nwfUdDrD612dOp')
+                sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:4un3pLJoCw3WCaSwsTyBXh')
                 sleep(2)
             #27    
-            elif (id=='RFID-CARDVALUE-2'):
+            elif (id==485882852984):
                 
                 # playing an album
-                sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:0JGOiO34nwfUdDrD612dOp')
+                sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:6rbqqMTScIBxRBlM7DayP1')
                 sleep(2)
                 
             #28    
-            elif (id=='RFID-CARDVALUE-2'):
+            elif (id==970106795543):
                 
                 # playing an album
-                sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:0JGOiO34nwfUdDrD612dOp')
+                sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:67smHJOf5YlFwad6dAlppm')
                 sleep(2)
             #29    
-            elif (id=='RFID-CARDVALUE-2'):
+            elif (id==838793693574):
                 
                 # playing an album
-                sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:0JGOiO34nwfUdDrD612dOp')
+                sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:5c2AzoNyr46fCQM5d8mxE0')
                 sleep(2)
             #30    
-            elif (id=='RFID-CARDVALUE-2'):
+            elif (id==352168310404):
                 
                 # playing an album
-                sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:0JGOiO34nwfUdDrD612dOp')
+                sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:h3euz4vS7ezKGnNSwgyvKcd')
                 sleep(2)
             #31    
-            elif (id=='RFID-CARDVALUE-2'):
+            elif (id==143291971158):
                 
                 # playing an album
-                sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:0JGOiO34nwfUdDrD612dOp')
+                sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:3tx8gQqWbGwqIGZHqDNrGe')
                 sleep(2)
             #32    
-            elif (id=='RFID-CARDVALUE-2'):
+            elif (id==348561208925):
                 
                 # playing an album
-                sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:0JGOiO34nwfUdDrD612dOp')
+                sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:0o5xjCboti8vXhdoUG9LYi')
                 sleep(2)
             #33    
-            elif (id=='RFID-CARDVALUE-2'):
+            elif (id==144046880386):
                 
                 # playing an album
-                sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:0JGOiO34nwfUdDrD612dOp')
+                sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:0mkOUedmYlOzCC4tOm2v0c')
                 sleep(2)                
              #34    
-            elif (id=='RFID-CARDVALUE-2'):
+            elif (id==761683310284):
                 
                 # playing an album
-                sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:0JGOiO34nwfUdDrD612dOp')
+                sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:6PWXKiakqhI17mTYM4y6oY')
                 sleep(2)
             #35    
-            elif (id=='RFID-CARDVALUE-2'):
+            elif (id==213554820772):
                 
                 # playing an album
-                sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:0JGOiO34nwfUdDrD612dOp')
+                sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:1gMxiQQSg5zeu4htBosASY')
                 sleep(2)                 
  
 # if there is an error, skip it and try the code again (i.e. timeout issues, no active device error, etc)
