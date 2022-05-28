@@ -134,7 +134,7 @@ while True:
                 sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:5r36AJ6VOJtp00oxSkBZ5h')
                 sleep(2)
             #19    
-            elif (id=='910232062267):
+            elif (id==910232062267):
                 
                 # playing an album
                 sp.start_playback(device_id=DEVICE_ID, context_uri='spotify:album:1FZKIm3JVDCxTchXDo5jOV')
